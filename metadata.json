@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cabine d'Essayage Virtuelle IA",
+  "description": "Une application d'essayage virtuel qui permet aux utilisateurs de télécharger leur photo et de glisser-déposer des vêtements de leur panier pour voir comment ils leur vont, en utilisant l'IA pour générer un rendu réaliste.",
+  "requestFramePermissions": []
+}
